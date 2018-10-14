@@ -15,7 +15,7 @@ Studies can be classified into:
         * Retrospective studies → when it uses past data
         * Prospective studies → when data is collected throughout the study
 * **Experiments**
-    * Experiments randomly assign subjects to treatments.
+    * Experiments randomly assign subjects to treatment and control groups. Subjects in the treatment group are imposed a certain treatment, whilst subjects on the control group aren't.
     * **Experiments can establish causal relationships between explanatory and response variables**.
 
 

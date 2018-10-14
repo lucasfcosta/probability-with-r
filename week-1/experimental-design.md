@@ -21,11 +21,25 @@ If you are designing an experiment to check if a certain substance such as creat
 Due to that you might want to separate individuals into the treatment and control groups so that these specific variables are equally represented in both groups.
 
 
-## Blocking versus Explanatory Variables
+## Blocking Versus Explanatory Variables
 
 Explanatory variables (factors) are the condictions we can subject our experimental units to, whilst blocking variables are characteristics inherent to the experimental units that we need to control.
 
 Just like stratifying, when blocking you are essentially dividing the subjects into homogeneous groups. The only difference is that in this case you are assigning subjects randomly instead of sampling them randomly.
+
+
+## Sampling and Assigning
+
+It's important here to highlight the difference between sampling and assigning.
+
+When doing **random sampling**, for example, we **pick individuals randomly** and with a **sufficiently representative sample** we can **generalize results** to an entire population.
+
+**Random assignment**, which **can only occur in experimental settings**, **consists in assigning individuals to treatment and control groups** and might include **blocking certain variables that might affect the study's outcome**, making sure that these variables are equally represented in both groups. **Random assignment allows us to establish a relation of causality** between explanatory and result variables.
+
+**A single study can apply both random sampling and random assignment** to ensure that the results it will obtain will be generalizable and that it will be possible to establish a relation of causality between explanatory and response variables.
+
+![A table explaining which studies use random sampling and assigning and which don't and explaining their differences](./assets/sampling-and-assigning.png)
+
 
 
 ## Experimental Terminology
