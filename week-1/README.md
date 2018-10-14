@@ -34,3 +34,4 @@
 1. [Data Basics](./data-basics.md)
 2. [Observational Studies and Experiments](./observational-studies-and-experiments.md)
 3. [Sampling and Sources of Bias](./sampling-and-sources-of-bias.md)
+4. [Experimental Design](./experimental-design)
